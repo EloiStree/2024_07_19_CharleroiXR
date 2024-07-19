@@ -22,6 +22,8 @@
   - APP [KiriEgine](https://www.kiriengine.com)
 
 
+- App: https://play.google.com/store/apps/details?id=com.epicgames.realityscan&hl=en
+- App: https://play.google.com/store/search?q=kiri&c=apps&hl=en
  
 
 - Nerf vs Photogrammetry: https://youtu.be/f6vuY-RJtq8
