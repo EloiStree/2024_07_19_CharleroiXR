@@ -47,8 +47,9 @@ Nids Street AR :
 
 ## Street AR
 
-Développeur: https://technocite.be/formations/la-realite-augmentee-pour-les-developpeurs
-Graphiste: https://technocite.be/formations/la-realite-augmentee-pour-graphistes-creatifs-en-3d
+Si la découverte vous donne envie, il y a deux formations plus longues avec un finalité.   
+Développeur: https://technocite.be/formations/la-realite-augmentee-pour-les-developpeurs    
+Graphiste: https://technocite.be/formations/la-realite-augmentee-pour-graphistes-creatifs-en-3d   
 
 Formateurs durant les formations:
 - [Sylvain Nyssens](https://www.linkedin.com/in/sylvainnyssens/) 
