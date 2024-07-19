@@ -21,6 +21,17 @@ Je vous invite donc à le suivre si le sujet vous intéresse.
 Si vous connaissez une personne qui pourrait être intéressée à venir à la formation "dans la vraie vie véritable" ;)  
 N'hésitez pas à lui partager les liens pour s'y inscrire.
 
+### Contribution
+
+Vous ne voyez pas un sujet :
+- que vous pensez nécessaire d'étudier dans les 3 premiers mois d'un développeur Unity3D
+- que vous pensez incontournable en Street AR
+- que vous aimeriez voir dans ce genre de cours
+- que vous conseillez d'étudier hors formation pour aller plus loin
+- ...
+
+Je vous invite à aller dans [Issues](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/new?title=Suggestion:) et laisser une suggestion :)
+
 # Informations officielles
 
 Découverte des métiers du jeu vidéo :
