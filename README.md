@@ -7,11 +7,7 @@ Apprendre à faire du Unity3D par le street AR pour commencer dans l'industrie d
 Dans le contexte de l'écosystem belge il y a une formation street AR à Charleroi organisé par [Technocité](https://technocite.be) et mise en place avec [Maracas Studio ](https://maracas-studio.com).
 Je serai un des formateurs dans cette formation.
 
-Ces formatoins sont complête  mais elles se suivent.
-- 5 Jours : de découverte
-- 
-
-Vous trouverez donc sur ce répertoire:
+Vous trouverez donc sur ce répertoire git:
 - des informatoins sur l'atelier
 - les brouillons de construction du cours
 - mon cours pour partir du C# juqu'à Vuforia
