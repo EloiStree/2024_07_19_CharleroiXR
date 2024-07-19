@@ -34,6 +34,8 @@ Je vous invite à aller dans [Issues](https://github.com/EloiStree/2024_07_19_Ch
 
 # Informations officielles
 
+## Découverte
+
 Découverte des métiers du jeu vidéo :
 - 02-06 septembre, Game Designer: Découverte du métier de game designer : https://technocite.be/formations/decouverte-du-metier-de-game-designer
 - 09-13 septembre, Game Développeur: Découverte du métier de game développeur : https://technocite.be/formations/decouverte-du-metier-de-game-developpeur
@@ -42,3 +44,16 @@ Découverte des métiers du jeu vidéo :
 Nids Street AR :
 - 23-27 septembre: Découverte du métier de développeur en réalité augmentée : https://technocite.be/formations/decouverte-du-metier-de-developpeur-en-realite-augmentee
 - 30 septembre - 04 octobre: Découverte du métier de graphiste en réalité augmentée : https://technocite.be/formations/decouverte-du-metier-de-graphiste-en-realite-augmentee
+
+## Street AR
+
+Développeur: https://technocite.be/formations/la-realite-augmentee-pour-les-developpeurs
+Graphiste: https://technocite.be/formations/la-realite-augmentee-pour-graphistes-creatifs-en-3d
+
+Formateurs durant les formations:
+- [Sylvain Nyssens](https://www.linkedin.com/in/sylvainnyssens/) 
+- [Éloi Strée](https://www.linkedin.com/in/eloistree/) ([📹](https://www.youtube.com/@eloistreeraw))
+- [Arnaud Jopart](https://www.linkedin.com/in/arnaudjopart/) ([📹](https://www.youtube.com/@ArnaudJopart))
+- [Maude L'hoir](https://www.linkedin.com/in/maudelhoir/) 
+- [Adam L'hoir](https://www.linkedin.com/in/adamlhoir/) 
+
