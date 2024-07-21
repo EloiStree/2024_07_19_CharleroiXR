@@ -21,6 +21,9 @@ Vous pouvez déjà prendre de l'avance et prover les deux premiers points, en é
 - [C'est quoi Unity3D ?](https://www.youtube.com/results?search_query=C%27est+quoi+Unity3D++pour+débutant)
 - Optionnellement: [C'est quoi ProBuilder](https://youtu.be/Re6wU7zPlXI)
 
+_Le C# s'apprend facilement dans Unity3D et vous pouvez en comprendre les bases en quelques jours ou semaines._
+_Avoir quelques notions de base avant de commencer n'est pas obligatoire, mais cela peut vous aider à profiter au maximum de cette formation._
+
 # Une semaine pour faire un jeu 
 
 - Drone Rc: https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone  
