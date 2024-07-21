@@ -1,3 +1,5 @@
+# Mon objectif de formateur
+
 Commencer de rien et finir avec un jeu vidéo basique à emporter sur votre téléphone en AR ou sur le Quest 3.  
 L'atelier est là pour découvrir à l'aide de gros raccourcis ce qu'est le jeu vidéo pour la réalité augmentée.  
 Il y a évidemment des similitudes entre cet atelier et le précédent, moins focalisé sur l'AR ([Ici](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/blob/main/Workshop/OneWeekToHaveFunWithUnity/ReadMe.md)).
