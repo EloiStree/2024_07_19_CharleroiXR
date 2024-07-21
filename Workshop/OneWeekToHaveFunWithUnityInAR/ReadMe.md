@@ -22,4 +22,4 @@ Vous pouvez déjà prendre de l'avance et prouver les deux premiers points, en �
 - [Les bases de C# pour Unity3D](https://www.youtube.com/results?search_query=les+bases+de+c%23+pour+Unity3D)
 - [C'est quoi Unity3D ?](https://www.youtube.com/results?search_query=C%27est+quoi+Unity3D++pour+débutant)
 - Optionnellement : [C'est quoi ProBuilder](https://youtu.be/Re6wU7zPlXI)
-- Si vous avez déjà le niveau : [EN Hello World](https://youtu.be/FWyTf3USDCQ), [FR Jeu AR avec Unity3D](https://youtu.be/77OKbIiXFrA)
+- Si vous avez déjà le niveau : [EN Hello World AR](https://youtu.be/FWyTf3USDCQ), [FR Jeu AR avec Unity3D](https://youtu.be/77OKbIiXFrA)
