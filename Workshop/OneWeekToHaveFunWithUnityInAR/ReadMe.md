@@ -4,7 +4,7 @@ Commencer de rien et finir avec un jeu vidéo basique à emporter sur votre tél
 L'atelier est là pour découvrir à l'aide de gros raccourcis ce qu'est le jeu vidéo pour la réalité augmentée.  
 Il y a évidemment des similitudes entre cet atelier et le précédent, moins focalisé sur l'AR ([Ici](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/blob/main/Workshop/OneWeekToHaveFunWithUnity/ReadMe.md)).
 
-Attention: Vouloir faire un jeu, faire un jeu, finir un jeu et publier un jeu sont extrêmement éloignés les uns des autres.  
+Attention: `Vouloir faire un jeu`, `faire un jeu`, `finir un jeu` et `publier un jeu` sont extrêmement éloignés les uns des autres.  
 Mon objectif est, en s'amusant avec Unity3D pour l'AR, de voir où vous voulez vous situer.
 
 Si publier un jeu après cette courte formation ne vous fait pas froid aux yeux, vous aurez les points clés nécessaires pour savoir si vous voulez continuer.
