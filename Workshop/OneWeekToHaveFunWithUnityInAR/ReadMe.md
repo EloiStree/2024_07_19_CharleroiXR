@@ -23,3 +23,6 @@ Vous pouvez déjà prendre de l'avance et prouver les deux premiers points, en �
 - [C'est quoi Unity3D ?](https://www.youtube.com/results?search_query=C%27est+quoi+Unity3D++pour+débutant)
 - Optionnellement : [C'est quoi ProBuilder](https://youtu.be/Re6wU7zPlXI)
 - Si vous avez déjà le niveau : [EN Hello World AR](https://youtu.be/FWyTf3USDCQ), [FR Jeu AR avec Unity3D](https://youtu.be/77OKbIiXFrA)
+  
+_Le C# s'apprend facilement dans Unity3D et vous pouvez en comprendre les bases en quelques jours ou semaines._
+_Avoir quelques notions de base avant de commencer n'est pas obligatoire, mais cela peut vous aider à profiter au maximum de cette formation._
