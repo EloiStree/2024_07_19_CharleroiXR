@@ -23,5 +23,5 @@ Vous pouvez déjà prendre de l'avance et prover les deux premiers points, en é
 
 # Une semaine pour faire un jeu 
 
-Drone Rc: https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone  
-Car RC: Add  
+- Drone Rc: https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone  
+
