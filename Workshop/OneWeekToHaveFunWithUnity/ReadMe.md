@@ -3,7 +3,7 @@
 Commencer de rien et finir avec un jeu vidéo basique à emporter sur votre téléphone.  
 L'atelier est là pour découvrir à l'aide de gros raccourcis ce qu'est le jeu vidéo.
 
-Vouloir faire un jeu, faire un jeu, finir un jeu et publier un jeu sont extrêmement éloignés les uns des autres.  
+Attention: Vouloir faire un jeu, faire un jeu, finir un jeu et publier un jeu sont extrêmement éloignés les uns des autres.  
 Mon objectif est, en s'amusant avec Unity3D, de voir où vous voulez vous situer.
 
 Si publier un jeu après cette courte formation ne vous fait pas froid aux yeux, vous aurez les points clés nécessaires pour savoir si vous voulez continuer.
