@@ -9,3 +9,7 @@ Importer une image avec Remove BG et Krita: https://youtu.be/vIOlZDGeqN4?t=3
 
 Tick Mono et package manager sur Git:  
 https://github.com/EloiStree/2024_08_05_TickCollection  
+
+
+De fusion à Unity3D par Blender:
+https://youtu.be/2HvVTUClKso  
