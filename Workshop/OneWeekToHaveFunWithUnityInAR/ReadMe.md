@@ -45,11 +45,11 @@ Deux ateliers possiblent mais non décidé.
 
 Vous recevez une application de scan de images sur feuille A4 où des enfants peuvent dessiner.
 Via ces image, fait un jeu pour que les enfants s'émerveille des leurs dessins sur une projection mural.
-
-- Apprendre à créer, ou importer, un object en Blender basique et à le déplier sur une feuille de papier.
-- Apprendre à importer cette object dans Unity3D
+- Un enfant dessin sur une feuille A4
+- Le format de la feuille est reconnu par Vuforia et une image est envoyé au projet Unity3D
+- Le jeu applique l'image sur un personnage ou object 3D
+- L'objet apparait dans la scène pour 5-60 seconds puis disparait.
 - 
-- ...
 
 
 
