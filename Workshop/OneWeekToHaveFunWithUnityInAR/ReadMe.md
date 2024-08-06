@@ -30,26 +30,24 @@ _Avoir quelques notions de base avant de commencer n'est pas obligatoire, mais c
 
 # Atelier
 
-Deux ateliers possiblent mais non décidé.
+Deux ateliers possibles mais non décidés.
 
-## Tagger virtuellement un espace de Chaleroi de votre jeu et signature
+## Tagger virtuellement un espace de Charleroi avec votre jeu et signature
 
-- Utiliser blender pour exporter votre signature en lettre
-- Apprendre à intégrer votre signature à Unity et l'embellir
-- Apprendre à animer la signature avec du rythme et une musique
-- Apprendre à exporter votre signature avec une image tracqué sur téléphone
-- Scanner l'emplacement de votre signature pour utiliser l'environnement
+- Utiliser Blender pour exporter votre signature en lettres.
+- Apprendre à intégrer votre signature dans Unity et l'embellir.
+- Apprendre à animer la signature avec du rythme et de la musique.
+- Apprendre à exporter votre signature avec une image tracée sur téléphone.
+- Scanner l'emplacement de votre signature pour utiliser l'environnement.
 
+## Faire un jeu de dessin pour enfants
 
-## Faire un jeu de dessin pour enfant
-
-Vous recevez une application de scan de images sur feuille A4 où des enfants peuvent dessiner.
-Via ces image, fait un jeu pour que les enfants s'émerveille des leurs dessins sur une projection mural.
-- Un enfant dessin sur une feuille A4
-- Le format de la feuille est reconnu par Vuforia et une image est envoyé au projet Unity3D
-- Le jeu applique l'image sur un personnage ou object 3D
-- L'objet apparait dans la scène pour 5-60 seconds puis disparait.
-- 
+Vous recevez une application de scan d'images sur feuille A4 où les enfants peuvent dessiner.
+Via ces images, faites un jeu pour que les enfants s'émerveillent de leurs dessins sur une projection murale.
+- Un enfant dessine sur une feuille A4.
+- Le format de la feuille est reconnu par Vuforia et une image est envoyée au projet Unity3D.
+- Le jeu applique l'image sur un personnage ou objet 3D.
+- L'objet apparaît dans la scène pendant 5 à 60 secondes puis disparaît.
 
 
 
