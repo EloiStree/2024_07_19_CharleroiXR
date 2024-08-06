@@ -24,7 +24,13 @@ Vous pouvez déjà prendre de l'avance et prover les deux premiers points, en é
 _Le C# s'apprend facilement dans Unity3D et vous pouvez en comprendre les bases en quelques jours ou semaines._
 _Avoir quelques notions de base avant de commencer n'est pas obligatoire, mais cela peut vous aider à profiter au maximum de cette formation._
 
-# Une semaine pour faire un jeu 
+# Atelier proposé
 
-- Drone Rc: https://github.com/EloiStree/2023_02_19_RootsOfKnowledgeDrone  
+**Level Designer d'un jeu pour drone(s)**
 
+- Apprendre ce qu'est un triangle jusqu'au matériel pour personnaliser un drone
+- Apprendre à utiliser des manettes de jeu
+- Importer des décorations depuis un magasin gratuit*
+- Apprendre à utiliser ProBuilder pour créer son niveau
+- Faire un peu de code pour créer un compteur
+- Publier le jeu sur Itch.io
