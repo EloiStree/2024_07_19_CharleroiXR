@@ -44,10 +44,11 @@ Deux ateliers possiblent mais non décidé.
 ## Faire un jeu de dessin pour enfant
 
 Vous recevez une application de scan de images sur feuille A4 où des enfants peuvent dessiner.
-Via ces image, fait un jeu pour que les enfants s'émerveille des leurs dessins.
+Via ces image, fait un jeu pour que les enfants s'émerveille des leurs dessins sur une projection mural.
 
-- Apprendre à créé un object en Blender basique et à le déplier sur une feuille de papier.
+- Apprendre à créer, ou importer, un object en Blender basique et à le déplier sur une feuille de papier.
 - Apprendre à importer cette object dans Unity3D
+- 
 - ...
 
 
