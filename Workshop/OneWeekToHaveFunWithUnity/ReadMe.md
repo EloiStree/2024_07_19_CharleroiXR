@@ -10,7 +10,7 @@ Si publier un jeu après cette courte formation ne vous fait pas froid aux yeux,
 
 Trois critères sont importants à mes yeux si vous voulez travailler dans le secteur en tant qu'emploi :  
 - Êtes-vous prêt à être autodidacte ?  
-- Êtes-vous prêt à étudier jusqu'à vos 60 ans ?  
+- Êtes-vous prêt à étudier jusqu'à vos 60+ ans ?  
 - Êtes-vous capable de travailler en équipe ?
 
 Si cette introduction ne vous fait pas peur :  
