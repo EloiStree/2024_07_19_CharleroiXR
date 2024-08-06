@@ -26,3 +26,29 @@ Vous pouvez déjà prendre de l'avance et prouver les deux premiers points, en �
   
 _Le C# s'apprend facilement dans Unity3D et vous pouvez en comprendre les bases en quelques jours ou semaines._
 _Avoir quelques notions de base avant de commencer n'est pas obligatoire, mais cela peut vous aider à profiter au maximum de cette formation._
+
+
+# Atelier
+
+Deux ateliers possiblent mais non décidé.
+
+## Tagger virtuellement un espace de Chaleroi de votre jeu et signature
+
+- Utiliser blender pour exporter votre signature en lettre
+- Apprendre à intégrer votre signature à Unity et l'embellir
+- Apprendre à animer la signature avec du rythme et une musique
+- Apprendre à exporter votre signature avec une image tracqué sur téléphone
+- Scanner l'emplacement de votre signature pour utiliser l'environnement
+
+
+## Faire un jeu de dessin pour enfant
+
+Vous recevez une application de scan de images sur feuille A4 où des enfants peuvent dessiner.
+Via ces image, fait un jeu pour que les enfants s'émerveille des leurs dessins.
+
+- Apprendre à créé un object en Blender basique et à le déplier sur une feuille de papier.
+- Apprendre à importer cette object dans Unity3D
+- ...
+
+
+
