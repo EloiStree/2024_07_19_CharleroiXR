@@ -1,3 +1,4 @@
+Voir : https://github.com/EloiStree/HelloGitForUnity3D
 
 # GitHub hors unity: Sauver vos fichier 
 
@@ -16,3 +17,5 @@ Nous allons apprendre à travaillez ensemble dans le même projet Unity en commu
 # Git pour package: Faire des boites à outils
 
 Nous allons faire des boites à outils à réutiliser durant votre carrière
+
+
