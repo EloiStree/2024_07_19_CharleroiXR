@@ -12,7 +12,7 @@ Je serai un des formateurs dans cette formation.
 Vous trouverez donc sur ce répertoire git :
 - des informations sur l'atelier
 - les brouillons de construction du cours
-- mon cours pour partir du C# jusqu'à Vuforia
+- mon cours pour partir du C# 
 - des mots-clés et des redirections vers des sujets à étudier hors formation
 - des guides sur comment appliquer les cours au Meta Quest 3 et 3s
 
