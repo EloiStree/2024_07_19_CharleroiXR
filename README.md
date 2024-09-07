@@ -13,7 +13,6 @@ Aujourd'hui
 
 --------------------
 
-__[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
 # Charleroi Street AR 2024
 
