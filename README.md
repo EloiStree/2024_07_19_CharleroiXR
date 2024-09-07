@@ -2,6 +2,14 @@
 
 > Dans le contexte de cette semaine, nous allons explorer Unity3D en nous concentrant sur la création d'une simple course de drones à publier sur [Itchi.io](https://itch.io)  
 
+Résumé de cette semaine:
+- C'est quoi Scratch et Unity3D
+- C'est quoi un cube
+- Comment on fait bouger un cube pour avoir un drone
+- Comment on place des objets 3D pour faire un niveau
+- Comment on fait pour avoir des scores
+- Sauver et partager le jeu ?
+
 Cette semaine   
 - https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/164
 
