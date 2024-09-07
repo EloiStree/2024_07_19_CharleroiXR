@@ -1,11 +1,12 @@
 # To Do Today
 
-Dans le contexte de cette semaine, nous allons explorer Unity3D en nous concentrant sur la création d'une simple course de drones.
-Cette semaine 
+> Dans le contexte de cette semaine, nous allons explorer Unity3D en nous concentrant sur la création d'une simple course de drones à publier sur [Itchi.io](https://itch.io)  
+
+Cette semaine   
 - https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/164
 
 De Scratch à Unity3D par la publication d'un simple cube 😊
-Aujourd'hui 
+Aujourd'hui   
 - https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/169
 
 
