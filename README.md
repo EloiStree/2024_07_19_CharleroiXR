@@ -1,3 +1,16 @@
+# To Do Today
+
+Dans le contexte de cette semaine, nous allons explorer Unity3D en nous concentrant sur la création d'une simple course de drones.
+Cette semaine - https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/164
+
+De Scratch à Unity3D par la publication d'un simple cube 😊
+Aujourd'hui - https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/169
+
+
+
+
+--------------------
+
 __[🥐>🫖 How to translate my "Hello" repository from French to English.](https://github.com/EloiStree/HelloUnityKeywordForJunior)__
 
 # Charleroi Street AR 2024
@@ -66,8 +79,3 @@ Formateurs durant les formations:
 https://play.google.com/store/apps/details?id=com.technocite.StreetARt&hl=en_US
 
 
-# Point de départ
-
-- [Découvert de Unity3D](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main/Workshop/OneWeekToHaveFunWithUnity)
-- [Découvert de Unity3D pour l'AR](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main/Workshop/OneWeekToHaveFunWithUnityInAR)
-- [Hello World à Vuforia](https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/tree/main/Workshop/OneMonthStreetAR)
