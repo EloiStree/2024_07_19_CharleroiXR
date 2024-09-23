@@ -1,4 +1,9 @@
+# Cette semaine
 
+Atelier:
+- https://github.com/EloiStree/2024_07_19_CharleroiStreetAR/issues/212
+
+----------
 
 # Charleroi Street AR 2024
 
